@@ -1,4 +1,4 @@
-class MAth:
+class Math:
     
     @staticmethod
     def add5(x):
@@ -10,7 +10,7 @@ class MAth:
         
     
 print(MAth.add5(5))
-MAth.pr()
+Math.pr()
 
 ##Selle meetodiga ei pea isegi definitsooni kutsuma midagi.
 # saab otse funktsiooni välja kutsuda!

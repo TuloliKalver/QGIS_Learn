@@ -9,7 +9,7 @@ class Math:
         print("Run")
         
     
-print(MAth.add5(5))
+print(Math.add5(5))
 Math.pr()
 
 ##Selle meetodiga ei pea isegi definitsooni kutsuma midagi.
